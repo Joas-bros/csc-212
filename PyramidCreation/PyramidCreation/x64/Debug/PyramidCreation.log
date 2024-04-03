@@ -1,0 +1,11 @@
+﻿  Renderer3d.cpp
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(34,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(34,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(34,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(34,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(41,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(41,28): warning C4244:         with
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(41,28): warning C4244:         [
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(41,28): warning C4244:             _Rep=double
+C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\Renderer3d.cpp(41,28): warning C4244:         ]
+  PyramidCreation.vcxproj -> C:\Users\Joshua\Desktop\CSC 212\pc\PyramidCreation\x64\Debug\PyramidCreation.exe
